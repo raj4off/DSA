@@ -1,3 +1,4 @@
+package Recursion;
 public class RecursionParameterized {
     public static void main(String[] args) {
         int n = 5;

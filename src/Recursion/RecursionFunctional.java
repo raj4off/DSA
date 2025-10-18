@@ -1,3 +1,4 @@
+package Recursion;
 public class RecursionFunctional {
     public static void main(String[] args) {
         System.out.print("Sum: "+printSum(4));
