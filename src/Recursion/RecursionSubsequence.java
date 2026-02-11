@@ -3,7 +3,7 @@ package Recursion;
 import java.util.ArrayList;
 import java.util.List;
 
-// tick and non-tick
+// pick and not-pick
 public class RecursionSubsequence {
  
     public static void main(String[] args) {
