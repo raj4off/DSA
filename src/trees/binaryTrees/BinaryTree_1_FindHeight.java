@@ -18,7 +18,7 @@ public class BinaryTree_1_FindHeight {
     public static void main(String[] args) {
         TreeNode treeNode = new TreeNode(1, new TreeNode(2), new TreeNode(3, new TreeNode(4), new TreeNode(5)));
         TreeNode treeNode1 = new TreeNode(1);
-        System.out.println(findHeight(treeNode1));
+        System.out.println(findHeight(treeNode));
     }
 
     public static int findHeight(TreeNode treeNode){
